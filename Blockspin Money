@@ -1,9 +1,9 @@
 repeat task.wait() until game:IsLoaded()
 
 local Settings = {
-    MaxPlayersToLeave = 15, 
+    MaxPlayersToLeave = 16, 
     MaxTimeInMinutes = 15,   
-    TargetMaxPlayers = 10,   
+    TargetMaxPlayers = 8,   
     AbsoluteMaxLimit = 20,
     WebhookURL = "",
     
