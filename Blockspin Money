@@ -1,7 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 
 local Settings = {
-    MaxPlayersToLeave = 16, 
+    MaxPlayersToLeave = 12, 
     MaxTimeInMinutes = 15,   
     TargetMaxPlayers = 8,   
     AbsoluteMaxLimit = 20,
